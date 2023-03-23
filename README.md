@@ -1,5 +1,8 @@
 # Resume
 ## 경력 기술서
+* LinkedIn : [Link](https://www.linkedin.com/in/%EC%8A%B9%ED%98%84-%EC%A0%95-8b4a2a191/)  
+* Email : jsh152169@gmail.com
+
 
 ## 경력
 ### 넷마블
