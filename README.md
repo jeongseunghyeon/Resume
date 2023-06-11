@@ -31,6 +31,7 @@
 >   * MySQL(mariaDB)
 >   * MongoDB
 >   * Elasticsearch
+>   * Redis
 > * CI / CD
 >   * Jenkins
 > * SCM(Source Code Management)
@@ -50,7 +51,7 @@
 >>    * Frontend : jQuery + Bootstrap
 >>    * Database : MySQL, MongoDB
 > 
-> ### 2. 보안 포털 시스템 2016.12 ~
+> ### 2. 보안 포털 시스템 2016.12 ~ 
 >>   * 제공 서비스
 >>     * MS Active Directory 계정 발급 서비스
 >>     * VPN 계정 발급 서비스
