@@ -24,6 +24,7 @@
 >     * Element UI
 >   * jQuery
 >   * Javascript & Typescript
+> * REST API
 > * Container
 >   * Docker
 >   * Kubernetes
@@ -37,7 +38,6 @@
 > * SCM(Source Code Management)
 >   * Subversion
 >   * Git
-> * REST API
 > * Security
 >   * Firewall
 >   * VPN
@@ -47,9 +47,9 @@
 ## 진행 프로젝트
 > ## 넷마블
 > ### 1. 방화벽 셀프서비스 시스템 2016.08 ~ 2022.10
->>    * Backend : Python Bottle
->>    * Frontend : jQuery + Bootstrap
->>    * Database : MySQL, MongoDB
+>>   * Backend : Python Bottle
+>>   * Frontend : jQuery + Bootstrap
+>>   * Database : MySQL, MongoDB
 > 
 > ### 2. 보안 포털 시스템 2016.12 ~ 
 >>   * 제공 서비스
@@ -61,33 +61,35 @@
 >>   * Database : MySQL
 > 
 > ### 3. 보안 인증서(SSL / Codesign) 관리 시스템 2021.01 ~
->>    * 제공 서비스
->>      * 인증서 다운로드
->>      * 인증서 만료 알람
->>    * Backend : Python Django
->>    * Frontend : Vue.js 2 + Vuetify
->>    * Database : MySQL, gitlab(인증서 저장소)
+>>   * 제공 서비스
+>>     * 인증서 다운로드
+>>   * 인증서 만료 알람
+>>   * Backend : Python Django
+>>   * Frontend : Vue.js 2 + Vuetify
+>>   * Database : MySQL, gitlab(인증서 저장소)
 > 
 > ### 4. 서버 원격 접근 서비스 2021.09 ~
->>    * Backend : Python Django
->>    * Frontend : Vue.js 2 + Vuetify
->>    * Database : MySQL, Redis
->>    * Solution : IBM SecretServer
+>>   * Backend : Python Django
+>>   * Frontend : Vue.js 2 + Vuetify
+>>   * Database : MySQL, Redis
+>>   * Solution : IBM SecretServer
 > 
-> ### 5. 게임 보안 로그 시스템 2021.10 ~
->>    * Backend : Python Django
->>    * Frontend : Vue.js 2 + Vuetify
->>    * Database : MySQL
->>    * Log Storage : Elasticsearch + Apache Storm
+> ### 5. 게임 보안 로그 조회 및 분석 시스템 2021.10 ~
+>>   * Backend : Python Django
+>>   * Frontend : Vue.js 2 + Vuetify
+>>   * Database : MySQL
+>>   * Log Storage : Elasticsearch + Apache Storm
 > 
 > ### 6. 모바일 게임 빌드 분석 시스템 2022.05 ~
->>    * Backend : Python Django
->>    * Frontend : Vue.js 3 + Element UI
->>    * Database : MySQL
->>    * Analyze Engine : Frida
+>>   * Backend : Python Django
+>>   * Frontend : Vue.js 3 + Element UI
+>>   * Database : MySQL
+>>   * Analyze Engine : Frida
 > 
-> ### 7. 통합 보안포털 서비스 2023.01 ~
->> * Backend : Python Django
->> * Frontend : Vue.js 3 + Vuetify 3
->> * Database : MySQL, Redis, MongoDB
->> * Container : Kubernetes
+> ### 7. 게임보안 포털 서비스 2023.01 ~
+>>   * Backend : Python Django
+>>   * Frontend : Vue.js 3 + Vuetify 3
+>>   * Database : MySQL, Redis, MongoDB
+>>   * Container : Kubernetes
+>>   * 제공 기능
+>>     * 자체 앱 서명 및 Architecture 별 해시값 추출
